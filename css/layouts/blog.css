@@ -184,11 +184,9 @@ h3 {
     }
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 600px){
     .footer {
         padding: 1em 0;
-        background: rgb(61, 79, 93);
-        
     }
 }
 
