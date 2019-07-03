@@ -186,6 +186,8 @@ h3 {
 
 @media screen and (min-width: 600px) and (max-width: 900px){
     .footer {
-        padding-left: 3em;
+        padding-left: 2em;
     }
 }
+
+
